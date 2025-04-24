@@ -18,3 +18,7 @@ Technology and tools
     <img src="https://skillicons.dev/icons?i=git,blender,ae,ai,ps,figma,unity,unreal,cs" />
   </a>
 </p>
+
+Git stats
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=disorderal&layout=compact&hide_border=true&title_color=FFAE00&text_color=b0b0b0&bg_color=0d1117" alt="Popular language"/> <img src="https://github-readme-stats.vercel.app/api?username=disorderal&show_icons=true&theme=transparent&hide_border=true&count_private=true&title_color=FFAE00&text_color=b0b0b0&bg_color=0d1117" alt="GitHub stats"/>
+</p>
