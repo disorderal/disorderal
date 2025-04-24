@@ -1,5 +1,5 @@
 <div style="background-color: black; color: white; padding: 20px; font-family: Arial, sans-serif; text-align: center;">
-  <img src="https://99px.ru/sstorage/86/2017/03/image_860703170920183441187.gif" width="780"/>
+  <img src="https://64.media.tumblr.com/360a7222b817c2f4af8b50a6908f35d7/tumblr_n8rbtcUX7A1sy6m2qo1_500.gifv" width="100%"/>
 </div>
 
 <h1 align="center">
