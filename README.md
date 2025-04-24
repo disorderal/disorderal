@@ -4,7 +4,7 @@
 
 <h1 align="center">
   <span style="color: #FFAE00;">7vetements</span> 
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  <img src="https://emoji.iamrohit.in/img-apple/1f43e.png" width="30px"/>
 </h1>
 
 <p align="center">
