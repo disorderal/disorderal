@@ -11,3 +11,10 @@
   <a href="https://github.com/disorderal" target="_blank">
   <img src="https://komarev.com/ghpvc/?username=disordeal&color=1a1a1a&style=for-the-badge&labelColor=FFAE00" alt="Profile views"/>
 </p>
+
+Technology and tools
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,blender,ae,ai,ps,figma,unity,unreal,cs" />
+  </a>
+</p>
